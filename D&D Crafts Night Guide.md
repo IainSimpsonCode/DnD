@@ -4,6 +4,14 @@
 - Creating a religion
 - Creating a shop
 
+### Some Useful Links
+- [City Building Guide](https://www.reddit.com/r/DnDBehindTheScreen/comments/2uxfav/lets_build_a_city/)
+- [Random Dungeon Generator](https://donjon.bin.sh/d20/dungeon/)
+- [NPC Generator](https://www.npcgenerator.com/)
+- [Dungeon Map Drawing Tool (How I make all my maps)](https://www.dungeonscrawl.com/)
+- [Loot Generator](http://redkatart.com/dnd5tools/#questBox2)
+- [Dungeon Masters Guild](https://www.dmsguild.com/browse.php?filters=0_0_45529_0_0_0_0_0)
+
 ## Creating a town
 (Dungeon Masters Guide: Chapter 1 and Chapter 4)
 When creating a town, you need to think of 3 things:
