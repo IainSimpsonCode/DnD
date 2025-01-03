@@ -81,6 +81,7 @@ Take plenty of creative liberty with dungeons. Create amazing spaces that leave 
 ![4d6e128pmzk11](https://github.com/user-attachments/assets/0186b693-649d-499a-b6a9-13007f9222a1)
 
 ## Creating a Shop
+(Starter Set Rulebook; Dungeon Master's Guide: Chapter 4 and Chapter 7)
 - What does your shop sell?
 - How is your shop laid out?
   - What space is there for customers to browse your wares?
