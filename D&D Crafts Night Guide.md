@@ -95,6 +95,22 @@ Take plenty of creative liberty with dungeons. Create amazing spaces that leave 
   - Interesting facts
   - [NPC Generator](https://www.npcgenerator.com/)
 
+## Creating a Dorn
+- The religion
+  - Monotheistic? Multitheistic?
+  - Goal of the religion
+  - ethos
+- Industry
+- Towns and cities
+  - How they interact and trade
+  - How they govern
+  - What are they called
+- The people and races
+  - racism
+- The Lord family, Lord Baye
+  - family tree
+  - current heirs/children
+
 
 
 
